@@ -1,0 +1,10 @@
+[project]
+name = "offline-music-algorithm-and-smart-queue"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "musicbrainzngs>=0.7.1",
+    "mutagen>=1.47.0",
+]

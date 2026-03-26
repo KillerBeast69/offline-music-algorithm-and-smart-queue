@@ -1,0 +1,12 @@
+.venv
+# Ignore the uv virtual environment
+.venv/
+
+# Ignore Python compiled cache files
+__pycache__/
+*.pyc
+
+# Ignore audio files
+audio/*.mp3
+audio/*.flac
+audio/*.wav
